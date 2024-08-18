@@ -1,0 +1,56 @@
+# Build Folders / Files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+.vs/
+_ReSharper.Caches/
+
+# Configuration Folders
+packages/
+*.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/kotlinc.xml
+.idea/modules.xml
+.idea/.idea/
+
+# Rider build output
+.idea/**/artifacts/
+
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Azure and other deployment-related settings
+*.azurewebsites.net.publishxml
+*.azurewebsites.net
+*.pubxml
+*.pubxml.user
